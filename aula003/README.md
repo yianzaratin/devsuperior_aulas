@@ -47,7 +47,7 @@ de aumento por porcentagem dada.
 
 EXEMPLO 1:
 ```
-How many employees will be registered? 3
+Quantos funcionários vao ser registrados? 3
 
 Emplyoee #1:
 Id: 333
@@ -64,10 +64,10 @@ Id: 772
 Name: Bob Green
 Salary: 5000.00
 
-Enter the employee id that will have salary increase : 536
-Enter the percentage: 10.0
+Coloque o ID do funcionario que tera o salario aumentado : 536
+Coloque a porcentagem do aumento: 10.0
 
-List of employees:
+Lista de funcionarios::
 333, Maria Brown, 4000.00
 536, Alex Grey, 3300.00
 772, Bob Green, 5000.00
@@ -75,7 +75,7 @@ List of employees:
 
 EXEMPLO 2:
 ```
-How many employees will be registered? 2
+Quantos funcionários vao ser registrados? 2
 
 Emplyoee #1:
 Id: 333
@@ -87,10 +87,10 @@ Id: 536
 Name: Alex Grey
 Salary: 3000.00
 
-Enter the employee id that will have salary increase: 776
-This id does not exist!
+Coloque o ID do funcionario que tera o salario aumentado : 776
+ID não existe!
 
-List of employees:
+Lista de funcionarios:
 333, Maria Brown, 4000.00
 536, Alex Grey, 3000.00
 ```
