@@ -1,4 +1,4 @@
-<h1 align="center"> Sequencia de aulas devsuperior.com com o Prof. Dr. Nelio Alves :books:</h1>
+<h1 align="center"> Sequencia de aulas com o Prof. Dr. Nelio Alves :books:</h1>
 
 <!--Banner session-->
 <p align="center">
@@ -6,7 +6,5 @@
 </p>
 
 
-<h2 align="center"> Acesso as aulas</h2>
-
-<a href="https://github.com/yianzaratin/devsuperior_aulas/tree/main/aula001">Modelagem de domínio em nível conceitual com UML - Aulão #001</a>
-
+## Acesso as Aulas
+<a href="https://github.com/yianzaratin/devsuperior_aulas/tree/main/aula001"> * Modelagem de domínio em nível conceitual com UML - Aulão #001</a>
